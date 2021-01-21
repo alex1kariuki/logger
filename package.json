@@ -1,0 +1,29 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Here is a test on how cabin logger works in node.js",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex1kariuki/logger.git"
+  },
+  "author": "Alex Kariuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex1kariuki/logger/issues"
+  },
+  "homepage": "https://github.com/alex1kariuki/logger#readme",
+  "dependencies": {
+    "cabin": "^9.0.4",
+    "express": "^4.17.1",
+    "express-request-id": "^1.4.1",
+    "nodemon": "^2.0.7",
+    "pino": "^6.11.0",
+    "request-received": "0.0.3",
+    "response-time": "^2.3.2",
+    "signale": "^1.4.0"
+  }
+}

@@ -1,2 +1,3 @@
 # logger
-Here is a test on how cabin logger works in node.js
+
+Trying out a logger service Cabin Logger and also healthchecks.io
